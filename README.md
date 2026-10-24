@@ -28,7 +28,7 @@ Repositori ini dibuat sebagai pemenuhan **Tugas 1 (Enrichment for Machine Learni
 |---|---|---|---|
 | **Milestone 1** | **Chapter 1 – 4** | 3 Oktober 2026 (23:59) |  **SELESAI (100%)** |
 | **Milestone 2** | **Chapter 5 – 6** | 17 Oktober 2026 (23:59) |  **SELESAI (100%)** |
-| **Full Completion** | **Chapter 7** | Pengayaan Lengkap |  **SELESAI (100%)** |
+| **Milestone 3** | **Chapter 7** | 24 Oktober 2026 (23:59) |  **SELESAI (100%)** |
 
 ---
 
@@ -162,5 +162,6 @@ Pembelajaran tanpa label untuk ekstraksi struktur laten dan pengelompokan:
 ## 🔗 Referensi & Sumber Rujukan
 
 - **Buku Utama:** Bruce, Peter, Andrew Bruce, and Peter Gedeck. *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python* (2nd ed.). O'Reilly Media, 2020.
+- **Tautan Buku (Google Drive):** [Google Drive - Practical Statistics for Data Scientists](https://drive.google.com/file/d/1dR9228_PRCN5_Hjs9ClxYgKe5zmifkmb/view?usp=sharing)
 - **Repositori Resmi Buku:** [gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)
 - **Repositori Rujukan Tugas:** [farrelrassya/Practical-Statistics-for-Data-Scientist-Books](https://github.com/farrelrassya/Practical-Statistics-for-Data-Scientist-Books)
